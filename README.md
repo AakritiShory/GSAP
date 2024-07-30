@@ -21,6 +21,7 @@ Files: scroll-trigger-text.html, scroll-trigger-text.css, scroll-trigger-text.js
 ### 5. Timeline Animations ⏳🌀
 Description: Sequencing multiple animations for complex transitions.
 Files: timeline.html, timeline.css, timeline.js
+
 ## Purpose 🌈 
 These mini projects are designed to make websites more dynamic and engaging. By leveraging GSAP, you can create animations that enhance the user experience and make your web pages stand out.
 
