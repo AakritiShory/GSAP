@@ -1,4 +1,4 @@
-# **GSAP (GreenSock Animation Platform) 🎨🚀**
+# **GSAP (GreenSock Animation Platform) 🚀**
 
 ## Introduction 📝
 Welcome to the **GSAP** repository! This repository contains various mini projects that demonstrate the power of GSAP in creating dynamic and interactive websites.
